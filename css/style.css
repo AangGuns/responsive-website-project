@@ -600,3 +600,9 @@
         width: 100%;
     }
 }
+
+@media screen and (max-height: 480px) {
+    .main-container {
+        height: auto;
+    }
+}
